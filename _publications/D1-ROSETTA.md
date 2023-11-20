@@ -10,7 +10,7 @@ venue: 'Colorado State University'
 citation: 'V. K. Kukkala, &quot;Robust and Secure Resource Management for Automotive Cyber-Physical Systems,&quot; <i>Colorado State University</i>, 2022.'
 ---
 
-![ROSETTA Framework](/images/ROSETTA.jpg){: .align-center style="max-height: 100%;"}
+![ROSETTA Framework](/images/ROSETTA.JPG){: .align-center style="max-height: 100%;"}
 
 ### Abstract
 Modern vehicles are examples of complex cyber-physical systems with tens to hundreds of interconnected Electronic Control Units (ECUs) that manage various vehicular subsystems. With the shift towards autonomous driving, emerging vehicles are being characterized by an increase in the number of hardware ECUs, greater complexity of applications (software), and more sophisticated in-vehicle networks. These advances have resulted in numerous challenges that impact the reliability, security, and real-time performance of these emerging automotive systems. Some of the challenges include coping with computation and communication uncertainties (e.g., jitter), developing robust control software, detecting cyber-attacks, ensuring data integrity, and enabling confidentiality during communication. However, solutions to overcome these challenges incur additional overhead, which can catastrophically delay the execution of real-time automotive tasks and message transfers. Hence, there is a need for a holistic approach to a system-level solution for resource management in automotive cyber-physical systems that enables robust and secure automotive system design while satisfying a diverse set of system-wide constraints.
