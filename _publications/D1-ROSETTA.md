@@ -4,6 +4,7 @@ label: "D1"
 collection: publications
 categories: Dissertation
 permalink: /publication/D1-ROSETTA
+dissertation: True
 excerpt: ''
 date: 2022-05-01
 venue: 'Colorado State University'

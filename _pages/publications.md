@@ -21,6 +21,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign dissertation_entry_number = dissertation_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Research Books Authored
 
@@ -32,6 +33,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign research_book_entry_number = research_book_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Book Chapters Authored
 
@@ -43,6 +45,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign book_chapter_entry_number = book_chapter_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Peer-Reviewed Journal Publications
 
@@ -54,6 +57,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign journal_paper_entry_number = journal_paper_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Peer-Reviewed Conference Publications (approx. 20-30% acceptance rate)
 
@@ -65,6 +69,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign conference_paper_entry_number = conference_paper_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## U.S. Patents
 
@@ -76,6 +81,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign us_patent_entry_number = us_patent_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Research Posters
 
@@ -87,6 +93,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign research_poster_entry_number = research_poster_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Ph.D. Forum
 
@@ -98,6 +105,7 @@ author_profile: true
   {% include archive-single.html %}
   {% assign phd_forum_entry_number = phd_forum_entry_number | minus: 1 %}
 {% endfor %}
+---
 
 ## Press Coverage
 
@@ -109,3 +117,4 @@ author_profile: true
   {% include archive-single.html %}
   {% assign press_coverage_entry_number = press_coverage_entry_number | minus: 1 %}
 {% endfor %}
+---
