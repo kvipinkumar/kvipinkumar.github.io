@@ -93,17 +93,17 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/124009023@N06/"
+  flickr           : "124009023@N06"
   facebook         :
   foursquare       :
-  github           : "kvipinkumar"
+  # github           : "kvipinkumar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vipin-kumar-kukkala"
-  orcid            : "https://orcid.org/0000-0002-3668-6978"
+  linkedin         : "vipin-kumar-kukkala"
+  # orcid            : "https://orcid.org/0000-0002-3668-6978"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@vipinkumarkukkala3672"
+  youtube          : "@vipinkumarkukkala3672"
   wikipedia        :
 
 
