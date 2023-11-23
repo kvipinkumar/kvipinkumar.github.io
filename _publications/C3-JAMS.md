@@ -3,7 +3,7 @@ title: "JAMS: Jitter-Aware Message Scheduling for FlexRay Automotive Networks"
 label: "C3"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C3-JAMS
+permalink: /publications/C3-JAMS
 excerpt: ''
 date: 2017-10-20
 venue: 'IEEE/ACM International Symposium on Network-on-Chip (NOCS)'

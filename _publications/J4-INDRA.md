@@ -3,7 +3,7 @@ title: "INDRA: Intrusion Detection using Recurrent Autoencoders in Automotive Em
 label: "J4"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J4-INDRA
+permalink: /publications/J4-INDRA
 excerpt: ''
 date: 2020-11-01
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)'

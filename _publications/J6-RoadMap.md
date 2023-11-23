@@ -3,7 +3,7 @@ title: "Roadmap for Cybersecurity in Autonomous Vehicles"
 label: "J6"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J6-RoadMap
+permalink: /publications/J6-RoadMap
 excerpt: ''
 date: 2022-11-01
 venue: 'IEEE Consumer Electronics Magazine'

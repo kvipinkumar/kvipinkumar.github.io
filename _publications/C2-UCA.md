@@ -3,7 +3,7 @@ title: "Uncertainty analysis and propagation for an Auxiliary Power Module"
 label: "C2"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C2-UCA
+permalink: /publications/C2-UCA
 excerpt: ''
 date: 2017-07-27
 venue: 'IEEE Transportation Electrification Conference (ITEC)'

@@ -3,7 +3,7 @@ title: "AI for Cybersecurity in Distributed Automotive IoT Systems"
 label: "BC1"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC1-QED
+permalink: /publications/BC1-QED
 excerpt: ''
 date: 2023-01-12
 venue: 'Springer Nature'

@@ -3,7 +3,7 @@ title: 'TENET: Temporal CNN with Attention for Anomaly Detection in Automotive C
 label: "C6"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C6-TENET
+permalink: /publications/C6-TENET
 excerpt: ''
 date: 2022-02-21
 venue: 'IEEE/ACM Asia & South Pacific Design Automation Conference (ASPDAC)'

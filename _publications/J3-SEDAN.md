@@ -3,7 +3,7 @@ title: "SEDAN: Security-Aware Design of Time-Critical Automotive Networks"
 label: "J3"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J3-SEDAN
+permalink: /publications/J3-SEDAN
 excerpt: ''
 date: 2020-08-01
 venue: 'IEEE Transactions on Vehicular Technology (TVT)'

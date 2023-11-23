@@ -3,7 +3,7 @@ title: "Priority-based Multi-level Monitoring of Signal Integrity in a Distribut
 label: "C1"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C1-PBMLMSI
+permalink: /publications/C1-PBMLMSI
 excerpt: ''
 date: 2015-07-01
 venue: 'IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling'

@@ -3,7 +3,7 @@ title: "Machine Learning for Anomaly Detection in Automotive Cyber-Physical Syst
 label: "BC2"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC2-EML
+permalink: /publications/BC2-EML
 excerpt: ''
 date: 2023-10-07
 venue: 'Springer Nature'

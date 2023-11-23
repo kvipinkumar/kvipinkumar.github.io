@@ -3,7 +3,7 @@ title: "Colorado State University EcoCAR 3 Final Technical Report"
 label: "C4"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C4-EC3
+permalink: /publications/C4-EC3
 excerpt: ''
 date: 2019-03-01
 venue: 'SAE World Congress Experience (WCX)'

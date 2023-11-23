@@ -3,7 +3,7 @@ title: "EcoCAR 3 Students Drive Innovation"
 label: "PC1"
 collection: publications
 categories: PressCoverage
-permalink: /publication/PC1-CSU_CA
+permalink: /publications/PC1-CSU_CA
 excerpt: ''
 date: 2017-02-28
 venue: 'Colorado State University College Avenue'

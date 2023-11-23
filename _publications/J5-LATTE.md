@@ -3,7 +3,7 @@ title: "LATTE: LSTM Self-Attention based Anomaly Detection in Embedded Automotiv
 label: "J5"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J5-LATTE
+permalink: /publications/J5-LATTE
 excerpt: ''
 date: 2021-09-17
 venue: 'ACM Transactions on Embedded Computing Systems'

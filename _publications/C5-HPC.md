@@ -3,7 +3,7 @@ title: "Designing Heterogeneous Systems: Large Scale Architectural Exploration V
 label: "C5"
 collection: publications
 categories: ConferencePaper
-permalink: /publication/C5-HPC
+permalink: /publications/C5-HPC
 excerpt: ''
 date: 2021-12-20
 venue: 'IEEE/ACM Programming Environments for Heterogeneous Computing (PEHC)'

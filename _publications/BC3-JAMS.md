@@ -3,7 +3,7 @@ title: "Reliable Real-Time Message Scheduling in Automotive Cyber-Physical Syste
 label: "BC3"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC3-JAMS
+permalink: /publications/BC3-JAMS
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

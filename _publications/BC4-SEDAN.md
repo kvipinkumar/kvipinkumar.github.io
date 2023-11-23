@@ -3,7 +3,7 @@ title: "Security-Aware Design of Time-Critical Automotive Cyber-Physical Systems
 label: "BC4"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC4-SEDAN
+permalink: /publications/BC4-SEDAN
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

@@ -3,7 +3,7 @@ title: "Advanced Driver-Assistance Systems: A path toward autonomous vehicles"
 label: "J1"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J1-ADAS
+permalink: /publications/J1-ADAS
 excerpt: ''
 date: 2018-09-01
 venue: 'IEEE Consumer Electronics Magazine (CEM)'

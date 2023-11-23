@@ -3,7 +3,7 @@ title: "System and method for predicting power usage of network components"
 label: "PT1"
 collection: publications
 categories: UsPatent
-permalink: /publication/PT1-HPE
+permalink: /publications/PT1-HPE
 excerpt: ''
 date: 2023-05-09
 venue: 'U.S. Patent (US11644882B2)'

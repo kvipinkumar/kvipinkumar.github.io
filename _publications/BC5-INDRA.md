@@ -3,7 +3,7 @@ title: "Real-Time Intrusion Detection in Automotive Cyber-Physical Systems with 
 label: "BC5"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC5-INDRA
+permalink: /publications/BC5-INDRA
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

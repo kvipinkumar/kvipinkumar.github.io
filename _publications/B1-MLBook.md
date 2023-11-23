@@ -3,7 +3,7 @@ title: "Machine Learning and Optimization Techniques for Automotive Cyber-Physic
 label: "B1"
 collection: publications
 categories: ResearchBook
-permalink: /publication/B1-MLBook
+permalink: /publications/B1-MLBook
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

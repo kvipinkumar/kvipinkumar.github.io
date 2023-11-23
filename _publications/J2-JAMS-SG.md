@@ -3,7 +3,7 @@ title: "JAMS-SG: A Framework for Jitter-Aware Message Scheduling for Time-Trigge
 label: "J2"
 collection: publications
 categories: JournalPaper
-permalink: /publication/J2-JAMS-SG
+permalink: /publications/J2-JAMS-SG
 excerpt: ''
 date: 2019-09-17
 venue: 'ACM Transactions on Design Automation of Electronic Systems (TODAES)'

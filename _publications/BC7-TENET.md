@@ -3,7 +3,7 @@ title: "Deep AI for Anomaly Detection in Automotive Cyber-Physical Systems"
 label: "BC7"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC7-TENET
+permalink: /publications/BC7-TENET
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

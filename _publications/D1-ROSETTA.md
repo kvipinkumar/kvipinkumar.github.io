@@ -3,7 +3,7 @@ title: "Robust and Secure Resource Management for Automotive Cyber-Physical Syst
 label: "D1"
 collection: publications
 categories: Dissertation
-permalink: /publication/D1-ROSETTA
+permalink: /publications/D1-ROSETTA
 dissertation: True
 excerpt: ''
 date: 2022-05-01

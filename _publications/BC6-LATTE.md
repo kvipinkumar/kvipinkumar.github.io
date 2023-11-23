@@ -3,7 +3,7 @@ title: "Stacked LSTM Based Anomaly Detection in Time-Critical Automotive Network
 label: "BC6"
 collection: publications
 categories: BookChapter
-permalink: /publication/BC6-LATTE
+permalink: /publications/BC6-LATTE
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'

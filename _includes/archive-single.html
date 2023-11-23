@@ -28,9 +28,9 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}" style="text-decoration: none;">{{ post.label }}. {{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}" style="text-decoration: none;">{% if post.label %}{{ post.label }}.{% endif %} {{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none;">{{ post.label }}. {{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none;">{% if post.label %}{{ post.label }}.{% endif %} {{ title }}</a>
       {% endif %}
     </h3>
     
@@ -38,26 +38,34 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          {% if post.dissertation %}
-            <p><b><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
-          {% else %}
-            {% if post.presented %}
-              <p><b>Presented at <i>{{ post.presented }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
-            {% else %}
-              <p><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
-            {% endif %}
-          {% endif %}
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% if post.collection == 'teaching' %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'research' %}
+      {% if page.topics %}
+        <ul>
+          {% for topic in page.topics %}
+            <li>{{ topic }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% elsif post.collection == 'publications' %}
+      {% if post.dissertation %}
+        <p><b><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
+      {% else %}
+        {% if post.presented %}
+          <p><b>Presented at <i>{{ post.presented }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
+        {% else %}
+          <p><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b></p>
         {% endif %}
+      {% endif %}
+    {% elsif post.date %}
+     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
