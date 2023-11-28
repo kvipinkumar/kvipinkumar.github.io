@@ -7,7 +7,7 @@ permalink: /publications/BC4-SEDAN
 excerpt: ''
 date: 2023-09-02
 venue: 'Springer Nature'
-citation: 'V. K. Kukkala, S. V. Thiruloga, and S. Pasricha, &quot;Security-Aware Design of Time-Critical Automotive Cyber-Physical Systems,&quot; in <i>Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems</i>, Springer Nature, 2023.'
+citation: 'V. K. Kukkala, T. Bradley, and S. Pasricha, &quot;Security-Aware Design of Time-Critical Automotive Cyber-Physical Systems,&quot; in <i>Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems</i>, Springer Nature, 2023.'
 ---
 
 ### Abstract
