@@ -1,0 +1,469 @@
+Paper,Place,City,State,Country
+QED_BC,Nile University,Cairo,,Egypt
+QED_BC,"University College Dublin, Belfield",Dublin,,Ireland
+QED_BC,National Telecommunication Institute,Cairo,,Egypt
+PBMLMSI,Colorado State University,Fort Collins,Colorado,USA
+UA_APM,Colorado State University,Fort Collins,Colorado,USA
+JAMS,Korea University,Seoul,,Korea
+JAMS,"Hyundai Motor Group, Seoul",Seoul,,Korea
+JAMS,Naif Arab University for Security Sciences,Riyadh,,Saudi Arabia
+JAMS,"Keio University, Kohoku-ku",Yokohama,,Japan
+JAMS,National Institute of Informatics,Tokyo,,Japan
+SEDAN,Colorado State University,Fort Collins,Colorado,USA
+SEDAN,Tsinghua University,Beijing,,China
+SEDAN,Louisiana State University,Baton Rouge,Louisiana,USA
+SEDAN,University of Wisconsin-Madison,Madison,Wisconsin,USA
+SEDAN,University of Texas,Austin,Texas,USA
+SEDAN,Intel Gordon Moore Park at Ronler Acres,Hillsboro,Oregon,USA
+SEDAN,University of Michigan,Ann Arbor,Michigan,USA
+SEDAN,University of Oum El Bouaghi,Oum El Bouaghi,,Algeria
+SEDAN,Northeastern University,Shenyang,Liaoning,China
+SEDAN,National University of Modern Languages,Islamabad,,Pakistan
+SEDAN,National University of Computer and Emerging Sciences,Islamabad,,Pakistan
+SEDAN,University of Greenwich,London,,U.K.
+SEDAN,Tikrit University,Tikrit,,Iraq
+TENET,Robert Gordon University,Aberdeen,,U.K.
+TENET,Birmingham City University,Birmingham,,U.K.
+TENET,Horiba Mira Ltd.,Warwickshire,,U.K.
+TENET,University of Windsor,Windsor,,Canada
+TENET,TELUS Corporate Office,Vancouver,,Canada
+TENET,Tongji University,Shanghai,,China
+TENET,Mississippi State University,,Mississippi ,USA
+TENET,Virginia Tech Research Center,Arlington,Virginia,USA
+TENET,University of Kentucky,Lexington,Kentucky,USA
+TENET,Oak Ridge National Laboratory,Oak Ridge,Tennessee,USA
+TENET,Virginia Tech,Blacksburg,Virginia,USA
+TENET,Maharaja Surajmal Institute Of Technology,Delhi,,India
+TENET,Indira Gandhi Delhi Technical University for Women,Delhi,,India
+TENET,Brandon University,Brandon,Manitoba,Canada
+TENET,University of Windsor,Windsor,Ontario,Canada
+TENET,TELUS Corporate Office,Vancouver,British Columbia,Canada
+TENET,Seoul National University of Science and Technology,Seoul,,South Korea
+TENET,Colorado State University,Fort Collins,Colorado,USA
+TENET,University College of Engineering Panruti,Panruti,,India
+TENET,The Islamic University of Najaf,Najaf,,Iraq
+TENET,Al-Mustaqbal University,Babylon,,Iraq
+TENET,Bannari Amman Institute of Technology,Sathyamangalam,,India
+TENET,KPR Institute of Engineering and Technology,Coimbatore,,India
+TENET,Dr. Sivanthi Aditanar College of Engineering,Tiruchendur,,India
+TENET,VIT Bhopal University,Bhopal,,India
+TENET,Erode Sengunthar Engineering College,Perundurai,,India
+TENET,Virginia Commonwealth University,Richmond,Virginia,USA
+TENET,Idaho National Laboratory,Idaho Falls,Idaho,USA
+TENET,University of Doha for Science and Technology,Doha,,Qatar
+TENET,Horiba Mira Ltd,Nuneaton,,U.K.
+LATTE,University of Ulsan,Ulsan,,South Korea
+LATTE,Washington State University,Pullman,,USA
+LATTE,University of Montpellier,Montpellier,,France
+LATTE,Eindhoven University of Technology,Eindhoven,,Netherlands
+LATTE,University of California at Irvine,Irvine,,USA
+LATTE,University of Tennessee,Knoxville,,USA
+LATTE,National University of Defense Technology,Changsha,,China
+LATTE,HCL Technologies (Vietnam) Company Limited,Hanoi,,Vietnam
+LATTE,HCL Corporation Private Limited,Noida,,India
+LATTE,Virginia Tech,Blacksburg,,USA
+RoadMap,King Faisal University,Hofuf,,Saudi Arabia
+RoadMap,King Abdulaziz University,Jeddah,,Saudi Arabia
+RoadMap,University of New Brunswick,Fredericton,,Canada
+RoadMap,University Oran 2,Oran,,Algeria
+RoadMap,University of Klagenfurt,Klagenfurt,,Austria
+RoadMap,University of Kinshasa,Kinshasa,,Congo
+RoadMap,Norwegian University of Life Sciences,Ås,,Norway
+RoadMap,University of Nebraska-Lincoln,Lincoln,,Nebraska
+RoadMap,Cranfield University,Cranfield,,U.K.
+RoadMap,Athena Research & Innovation Center,Patras,,Greece
+RoadMap,University of Patras,Patras,,Greece
+RoadMap,University of Toronto,Toronto,,Canada
+RoadMap,Memorial University of Newfoundland,St. John's,,Canada
+RoadMap,Bentley University,"Waltham, MA",,USA
+RoadMap,University of Guelph,Guelph,,Canada
+RoadMap,Prince Sultan University,Riyadh,,Saudi Arabia
+RoadMap,The University of Jordan,Amman,,Jordan
+RoadMap,University of Thessaly,Volos,,Greece
+RoadMap,Edinburgh Napier University,Edinburgh,,U.K.
+RoadMap,Northern Arizona University,Flagstaff,,USA
+RoadMap,Brown University,Providence,,USA
+RoadMap,University of Pitesti,Pitești,,Romania
+RoadMap,Colorado State University,Fort Collins,,USA
+RoadMap,University Malaysia Sabah,Kota Kinabalu,,Malaysia
+RoadMap,Naresuan University,Phitsanulok,,Thailand
+RoadMap,Prince of Songkla University,Hat Yai,,Thailand
+RoadMap,University of Porto,Porto,,Portugal
+RoadMap,Hindustan Institute of Technology and Science,Chennai,,India
+RoadMap,Far Eastern Federal University,Vladivostok,,Russia
+RoadMap,BMS Institute of Technology and Management,Bengaluru,,India
+RoadMap,Sai Vidya Institute of Technology,Bengaluru,,India
+RoadMap,Karabuk University,Karabük,,Turkey
+RoadMap,"Hitachi, Ltd. Head Office",Tokyo,,Japan
+INDRA,Vellore Institute of Technology,Vellore,,India
+INDRA,Nantes University,Nantes,,France
+INDRA,Charles Darwin University,Casuarina,,Australia
+INDRA,Colorado State University,Fort Collins,,USA
+INDRA,SRM Institute of Science and Technology,Kattankulathur,Tamil Nadu,India
+INDRA,CVR College of Engineering,Hyderabad,,India
+INDRA,University of Calgary,Calgary,,Canada
+INDRA,"George Emil Palade University of Medicine, Pharmacy, Science and Technology of Targu Mures",Târgu Mureș,,Romania
+INDRA,Korea University,Seoul,,Korea
+INDRA,Soongsil University,Seoul,,Korea
+INDRA,Netherlands Organisation for Applied Scientific Research,The Hague,,Netherlands
+INDRA,Budapest University of Technology and Economics,Budapest,,Hungary
+INDRA,Beijing Jiaotong University,Beijing ,,China
+INDRA,National Chung Cheng University,Chiayi,,Taiwan
+INDRA,National Yang Ming Chiao Tung University,Tainan,,Taiwan
+INDRA,Colorado State University,Fort Collins,,Colorado
+INDRA,McGill University,Montreal,,Canada
+INDRA,University of Manouba,Manouba,,Tunisia
+INDRA,Samsung Electronics Corp,Hwaseong,,Korea
+INDRA,Southeast University,Nanjing,,China
+INDRA,Jiangsu Automation Research Institute,Lianyungang,,China
+INDRA,Robert Gordon University,Aberdeen,,U.K.
+INDRA,University of Doha for Science and Technology,Doha,,Qatar
+INDRA,Horiba Mira Ltd.,Warwickshire,,U.K.
+INDRA,Lakshmi Narain College of Technology,Bhopal,,India
+ADAS,University of Warwick,Coventry,,U.K.
+ADAS,University of Oxford,Oxford,,U.K.
+ADAS,Nanyang Technological University,Singapore,,Singapore
+ADAS,University of Waterloo,Waterloo,,Canada
+ADAS,University of Cambridge,Cambridge,,U.K.
+ADAS,Southern Taiwan University of Science and Technology,Tainan,,Taiwan
+ADAS,Ghent University,Ghent,,Belgium
+ADAS,Selex ES,Rome,,Italy
+ADAS,University of Bojnord,Bojnurd,,Iran
+ADAS,Korea Research Institute of Standards and Science,Daejeon,,Korea
+ADAS,University of Science & Technology,Daejeon,,Korea
+ADAS,"AI-Based Healthcare Research Group, Sewon Intelligence, Ltd.",Seoul,,Korea
+ADAS,Automotive Platforms and Application Systems R&D Centre,Hong Kong,,China
+ADAS,Swinburne University of Technology,Melbourne,,Australia
+ADAS,ETH Zürich,Zürich,,Switzerland
+ADAS,Swiss Federal Laboratories for Materials Science and Technology,Dübendorf,,Switzerland
+ADAS,RMIT University,Melbourne,,Australia
+ADAS,SICE Canada Inc.,Toronto,,Canada
+ADAS,Universidad Europea de Madrid,Madrid,,Spain
+ADAS,National Chung Cheng University,Chiayu,,Taiwan
+ADAS,Western Michigan University,Kalamazoo,,USA
+ADAS,FEV North America Inc.,Auburn Hills,,USA
+ADAS,Oak Ridge National Laboratory,Oak Ridge,,USA
+ADAS,Hong Kong University of Science and Technology,Hong Kong,,China
+ADAS,University of Helsinki,Helsinki,,Finland
+ADAS,Hong Kong Applied Science and Technology Research Institute,Hong Kong,,China
+ADAS,The Hong Kong University of Science and Technology (Guangzhou),Guangzhou,,China
+ADAS,Vellore Institute of Technology,Vellore,,India
+ADAS,"Agency for Science, Technology and Research",,,Singapore
+ADAS,"Alibaba (China) Network Technology Co.,Ltd.",Shanghai,,China
+ADAS,Samsung AI Center,Cambridge,,U.K.
+ADAS,Iran University of Science and Technology,Tehran,,Iran
+ADAS,Amirkabir University of Technology (Tehran Polytechnic),Tehran,,Iran
+ADAS,Sidi Mohamed Ben Abdellah University, Fez,,Morocco
+ADAS,Tampere University,Tampere,,Finland
+ADAS,Peter the Great St.Petersburg Polytechnic University,Saint Petersburg,,Russia
+ADAS,Rajshahi University of Engineering & Technology,Rajshahi,,Bangladesh
+ADAS,"Independent University, Bangladesh",Dhaka,,Bangladesh
+ADAS,University of New South Wales,Canberra,,Australia
+ADAS,Riphah International University Faisalabad,Faisalabad,,Pakistan
+ADAS,National University of Sciences and Technology Balochistan Campus,Quetta,,Pakistan
+ADAS,Commonwealth Scientific & Industrial Research Organization (CSIRO),Brisbane,,Australia
+ADAS,Kyung Hee University,Youngin-si,,Korea
+ADAS,Jamia Hamdard,New Delhi ,,India
+ADAS,University of Bari Aldo Moro,Bari,,Italy
+ADAS,Universiti Teknologi Malaysia,Johor,,Malaysia
+ADAS,Universiti Malaysia Pahang Al Sultan Abdullah,Pahang,,Malaysia
+ADAS,École de Technologie Supérieure,Montreal,,Canada
+ADAS,STMicroelectronics,Catania,,Italy
+ADAS,Università di Catania,Catania,,Italy
+ADAS,Sejong Cyber University,Seoul,,Korea
+ADAS,Ericsson Canada Inc,Ottawa,,Canada
+ADAS,Saudi Telecom Company,Makkah,,Saudi Arabia
+ADAS,Carleton University,Ottawa,,Canada
+ADAS,Vellore Institute of Technology,Vellore,,India
+ADAS,University of Paris,Paris,,France
+ADAS,Deakin University,Victoria,,Australia
+ADAS,Visage Technologies,Linköping,,Sweden
+ADAS,"Corpy & Co., Inc.",Tokyo,,Japan
+ADAS,The University of Tokyo,Tokyo,,Japan
+ADAS,University of Southern California,Los Angeles,,USA
+ADAS,Intel AI Labs,San Diego,,USA
+ADAS,Information Sciences Institute,Marina Del Rey,,USA
+ADAS,Kookmin University,Seoul,,Korea
+ADAS,Hong Kong University of Science and Technology,Hong Kong,,China
+ADAS,University of Helsinki,Helsinki,,Finland
+ADAS,University of California at Irvine,Irvine,,USA
+ADAS,Northeastern University,Boston,,USA
+ADAS,Dalian Maritime University,Dalian,,China
+ADAS,Purdue School of Engineering and Technology,Indianapolis,,USA
+ADAS,University of Ottawa,Ottawa,,Canada
+ADAS,Federal University of Minas Gerais,Belo Horizonte,,Brazil
+ADAS,Colorado State University,Fort Collins,,USA
+ADAS,National Yang Ming Chiao Tung University,Hsin-Chu,,Taiwan
+ADAS,Carnegie Mellon University,Pittsburgh,,USA
+ADAS,University of Duisburg-Essen,Duisburg,,Germany
+ADAS,ZF Friedrichshafen AG,Friedrichshafen,,Germany
+ADAS,Czech Technical University in Prague,Prague,,Czechia
+ADAS,Dalian Maritime University,Dalian,,China
+ADAS,University of Alberta,Edmonton,,Canada
+ADAS,Queen’s University,Kingston,,Canada
+ADAS,University of Novi Sad,Novi Sad,,Serbia
+ADAS,University of Management and Technology,Lahore,,Pakistan
+ADAS,University of Education,Lahore,,Pakistan
+ADAS,COMSATS University Islamabad,Lahore,,Pakistan
+ADAS,Nisantasi University,Istanbul,,Turkey
+ADAS,New York University,Abu Dhabi,,United Arab Emirates
+ADAS,Istanbul Sabahattin Zaim University,Istanbul,,Turkey
+ADAS,Thapar Institute of Engineering and Technology,Punjab,,India
+ADAS,Chitkara University,Punjab,,India
+ADAS,University of Duisburg-Essen,Duisburg,,Germany
+ADAS,Western Michigan University,Kalamazoo,,USA
+ADAS,Poznań University of Technology,Poznań,,Poland
+ADAS,Nanjing University of Aeronautics and Astronautics,Nanjing,,China
+ADAS,Imperial College London,London,,U.K.
+ADAS,Texas Tech University,Lubbock,,USA
+ADAS,"University of Nevada, Reno",Reno,,USA
+ADAS,Universidad de Oviedo,Gijón,,Spain
+ADAS,National Taiwan University of Science and Technology,Taipei,,Taiwan
+ADAS,Industrial Technology Research Institute,,,Taiwan
+ADAS,Islamiah Institute of Technology,Bangaluru,,India
+ADAS,WorldServe Education,Bangaluru,,India
+ADAS,Rochester Institute of Technology,Rochester,,USA
+ADAS,George Mason University,Fairfax,,USA
+ADAS,University of Duisburg-Essen,Duisburg,,Germany
+ADAS,Sreenidhi Institute of Science and Technology,Hyderabad,,India
+ADAS,Seoul National University,Seoul,,Korea
+ADAS,Kyung Hee University,Yongin,,Korea
+ADAS,National Taiwan University of Science and Technology,Taipei,,Taiwan
+ADAS,Industrial Technology Research Institute,,,Taiwan
+ADAS,Sungkyunkwan University,Suwon,,Korea
+ADAS,Western Michigan University,Kalamazoo,,USA
+ADAS,University of Cincinnati,Cincinnati,,USA
+ADAS,Central Michigan University,Mount Pleasant,,USA
+ADAS,Balochistan University of Information Technology Engineering & Management Sciences,Quetta,,Pakistan
+ADAS,National University of Science and Technology,Islamabad,,Pakistan
+ADAS,University of Sharjah,Sharjah,,United Arab Emirates
+ADAS,Kyung Hee University College of Medicine,Seoul,,Korea
+ADAS,Sejong University,Seoul,,Korea
+ADAS,Korea Advanced Institute of Science and Technology,Daejeon,,Korea
+ADAS,"DSM Co., Ltd.",Anseong ,,Korea
+ADAS,Cheongju University,Cheongju,,Korea
+ADAS,Birzeit University,Birzeit,,Palestine
+ADAS,University of Tennessee,Knoxville,,USA
+ADAS,University of North Texas,Denton,,USA
+ADAS,Tennessee Technological University,Cookeville,,USA
+ADAS,Federal University of Bahia,Salvador,,Brazil
+ADAS,SENAI CIMATEC,Salvador,,Brazil
+ADAS,University of Messina,Messina,,Italy
+ADAS,Ankara Yıldırım Beyazıt University,Ankara,,Turkey
+ADAS,TOBB University of Economics and Technology,Ankara,,Turkey
+ADAS,University of Calabria,Rende,,Italy
+ADAS,Sheffield Hallam University,Sheffield ,,U.K.
+ADAS,University of Haifa,Haifa,,Israel
+ADAS,Robert Bosch GmbH,Leonberg,,Germany
+ADAS,Karlsruhe Institute of Technology,Karlsruhe,,Germany
+ADAS,NEC Laboratories Europe GmbH,Heidelberg,,Germany
+ADAS,Leibniz University Hannover,Hanover,,Germany
+ADAS,The University of Tokyo,Tokyo,,Japan
+ADAS,The University of Tokyo,Tokyo,,Japan
+ADAS,Dalian University of Technology,Dalian,,China
+ADAS,De Montfort University,Leicester,,England
+ADAS,Swansea University,Swansea,,U.K.
+ADAS,Savitribai Phule Pune University,Pune,,India
+ADAS,Seoul National University of Science and Technology,Seoul,,Korea
+ADAS,Yuan-Ze University,Chung-Li,,Taiwan
+ADAS,Hankyong National University,Anseong ,,Korea
+ADAS,Yuan-Ze University,Taoyuan,,Taiwan
+ADAS,Queen’s university,Ontario,,Canada
+ADAS,Defence Institute of Advanced Technology,Pune,,India
+ADAS,Madhav Institute of Technology and Science,Gwalior,,India
+ADAS,Bosch Security Systems,Lancaster,,USA
+ADAS,Penn State Harrisburg,Middletown,,USA
+ADAS,Iran University of Science and Technology,Tehran,,Iran
+ADAS,Shoolini University,Solan,,India
+ADAS,Jawaharlal Nehru University,New Delhi,,India
+ADAS,PSG Institute of Technology and Applied Research,Coimbatore,,India
+ADAS,Sri Krishna College of Engineering and Technology,Coimbatore,,India
+ADAS,University of Malta,Msida,,Malta
+ADAS,University of Kaiserslautern,Kaiserslautern,,Germany
+ADAS,Nanjing University of Aeronautics and Astronautics,Nanjing,,China
+ADAS,National Institute of Informatics,Tokyo,,Japan
+ADAS,Charles III University of Madrid,Getafe,,Spain
+ADAS,Wuhan University of Technology,Wuhan,,China
+ADAS,Minia University,El-Minia,,Egypt
+ADAS,University of Coimbra,Coimbra,,Portugal
+ADAS,Instituto de Telecomunicações,Aveiro,,Portugal
+ADAS,Coimbra Business School Research Centre ,Coimbra,,Portugal
+ADAS,University of Texas at Austin,Austin,,USA
+ADAS,Guangzhou University,Guangzhou,,China
+ADAS,Politecnico di Torino,Torino,,Italy
+ADAS,Magna Lighting,Turin,,Italy
+ADAS,Yozgat Bozok University,Yozgat,,Turkey
+ADAS,Honda Research Institute USA,San Jose,,California
+ADAS,CISTER Research Center,Porto,,Portugal
+ADAS,Commonwealth Scientific and Industrial Research Organisation,Canberra,,Australia
+ADAS,Qatar University,,,Qatar
+ADAS,Karlsruhe Institute of Technology,Karlsruhe,,Germany
+ADAS,MAN Truck & Bus Germany GmbH,München,,Germany
+ADAS,FZI Forschungszentrum Informatik,Karlsruhe,,Germany
+ADAS,University of Cincinnati,Cincinnati,,USA
+ADAS,Keio University,Tokyo,,Japan
+ADAS,Berlin School of Economics and Law Schöneberg Campus,Berlin,,Germany
+ADAS,Ostfalia University of Applied Sciences,Wolfenbüttel,,Germany
+ADAS,Chung-Ang University,Seoul,,Korea
+ADAS,Shandong University,Jinan,,China
+ADAS,Tokyo Institute of Technology,Yokohama,,Japan
+ADAS,Subaru Corporation,Ota,,Japan
+ADAS,TTTech Auto Central and Eastern Europe,Osijek,,Croatia
+ADAS,Computer Science and Information Technology Osijek,Osijek,,Croatia
+ADAS,Graz University of Technology,Graz,,Austria
+ADAS,University of Gothenburg,Gothenburg,,Sweden
+ADAS,Research Institutes of Sweden,Gothenburg,,Sweden
+ADAS,Zenseact,Gothenburg,,Sweden
+ADAS,Kognic,Gothenburg,,Sweden
+ADAS,University of Sfax,Sfax,,Tunisia
+ADAS,University of Central Florida,Orlando,,USA
+ADAS,University of Oviedo,Gijon,,Spain
+ADAS,Tampere University,Tampere,,Finland
+ADAS,Northern Illinois University,Dekalb,,USA
+ADAS,University of Novi Sad,Novi Sad,,Serbia
+ADAS,Sejong Cyber University,Seoul,,Korea
+ADAS,INSTITUTO POLITÉCNICO NACIONAL,Mexico City,,Mexico
+ADAS,CETYS University,Mexicali,,Mexico
+ADAS,De Montfort University,Leicester,,U.K.
+ADAS,Horiba Mira Ltd.,Nuneaton,,U.K.
+ADAS,Purdue School of Engineering & Technology,Indianapolis,,USA
+ADAS,Shizuoka University,Shizuoka,,Japan
+ADAS,Purdue School of Engineering & Technology,Indianapolis,,USA
+ADAS,University of Windsor,Windsor,,Canada
+ADAS,University of Technology of Compiègne,Compiègne,,France
+ADAS,Universitas Mercu Buana Yogyakarta,Yogyakarta,,Indonesia
+ADAS,California Institute of Technology,Pasadena,,USA
+ADAS,Moscow Automobile and Road Construction State Technical University,Moscow,,Russia
+ADAS,RT-RK Institute For Computer Based Systems,Novi Sad,,Serbia
+ADAS,University of Technology of Compiègne,Compiègne,,France
+ADAS,University of Calabria,Rende,,Italy
+ADAS,University of Naples Federico II,Naples,,Italy
+ADAS,Georgia Institute of Technology,Atlanta,,USA
+ADAS,Indian Institute of Technology,Roorkee,,India
+ADAS,University of Calabria,Arcavacata,,Italy
+ADAS,Cheongju University,Cheongju,,Korea
+ADAS,University of California Berkeley,Berkeley,,USA
+ADAS,Tecnologico de Estudios Superiores de Tianguistenco,Santiago Tilapa,,Mexico
+ADAS,Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco,,,Mexico
+ADAS,National Technological Institute of Mexico,Chihuahua,,Mexico
+ADAS,Francisco de Vitoria University,Madrid,,Spain
+ADAS,Universidad Europea de Madrid,Odón,,Spain
+ADAS,Indian Institute of Technology Hyderabad,Hyderabad,,India
+ADAS,Instituto Politécnico Nacional,Mexico City,,Mexico
+ADAS,Capitol Technology University,Laurel,,USA
+ADAS,Embry Riddle Aeronautical University,Daytona Beach,,USA
+ADAS,Charles III University of Madrid,Getafe,,Spain
+ADAS,Annamalai University,Chidambaram,,India
+ADAS,Tamil Virtual Academy,Chennai,,India
+ADAS,University of Zagreb,Zagreb,,Croatia
+ADAS,Karlsruhe Institute of Technology,Karlsruhe,,Germany
+ADAS,Bavarian Motor Works,Munich,,Germany
+ADAS,Transilvania University of Brasov,Brasov,,Romania
+ADAS,Kalray,Montbonnot,,France
+ADAS,Utah State University,Logan,,USA
+ADAS,Wayne State University,Detroit,,USA
+ADAS,Edgemind Solutions LLC,Detroit,,USA
+ADAS,University of Messina,Messina,,Italy
+ADAS,Xidian University,Xi'an,,China
+ADAS,University of Massachusetts Amherst,Amherst,,USA
+ADAS,Horizon Robotics,Beijing,,China
+ADAS,KTH Royal Institute of Technology,Stockholm,,Sweden
+ADAS,National Research Council Canada,London,,Canada
+ADAS,University of Gothenburg,Gothenburg,,Sweden
+ADAS,Leibniz University Hannover,Hanover,,Germany
+ADAS,Texas Tech University,Lubbock,,USA
+ADAS,Andhra University,Visakhapatnam,,India
+ADAS,The National Institute of Engineering,Mysuru,,India
+ADAS,Newcastle University,Tyne,,England
+ADAS,Indian Institute of Information Technology Guwahati,Guwahati,,India
+ADAS,University of North Texas,Denton,,USA
+ADAS,Chang'an University,Xi'an,,China
+ADAS,The University of Western Australia,Crawley,,Australia
+ADAS,Macau University of Science and Technology,Macau,,China
+ADAS,University of Massachusetts Amherst,Amherst,,USA
+ADAS,Technical Faculty Erlangen,Erlangen,,Germany
+ADAS,Queen’s university,Ontario,,Canada
+ADAS,Utah State University,Logan,,USA
+ADAS,Drexel University,Philadelphia,,USA
+ADAS,Lockheed Martin Corporation,Cherry Hill,,USA
+ADAS,Dayananda Sagar College of Engineering,Bangalore,,India
+ADAS,University of Minnesota,Twin Cities,,USA
+ADAS,University of Michigan,Ann Arbor,,USA
+ADAS,Faculty of electrical engineering,Bratislava,,Slovakia
+ADAS,University of Porto,Porto,,Portugal
+ADAS,Technische Universität,Kaiserslautern,,Germany
+ADAS,De Montfort University,Leicester,,U.K.
+ADAS,Manav Rachna University, Faridabad,,India
+ADAS,Galgotias University,Greater Noida,,India
+ADAS,University of Petroleum and Energy Studies,Dehradun,,India
+ADAS,University of Birmingham,Birmingham,,U.K.
+ADAS,Illinois Institute of Technology,Chicago,,USA
+ADAS,Kelas Karyawan Universitas Mercu Buana Yogyakarta,Yogyakarta,,Indonesia
+ADAS,Universiti Teknikal Malaysia Melaka,Melaka,,Malaysia
+ADAS,The University of Tokyo,Tokyo,,Japan
+ADAS,Sri Krishna College of Engineering and Technology,Coimbatore,,India
+ADAS,Mälardalens University,Västerås,,Sweden
+ADAS,Universidade NOVA de Lisboa,Lisbon,,Portugal
+ADAS,Ondokuz Mayis University,Samsun,,Turkey
+ADAS,Karadeniz Technical University,Trabzon,,Turkey
+ADAS,U.S. Army Engineer Research and Development Center,Vicksburg,,USA
+ADAS,University of Porto,Porto,,Portugal
+ADAS,National Changhua University of Education,Changhua City,,Taiwan
+ADAS,Istanbul Medeniyet University,Istanbul,,Turkey
+ADAS,Istanbul Technical University,Istanbul,,Turkey
+ADAS,Universitas Negeri,Malang,,Indonesia
+ADAS,Vellore Institute of Technology,Vellore,,India
+ADAS,Sri Meenakshi Government Arts College for Women,Madurai,,India
+ADAS,International Education Corporation,Almaty,,Kazakhstan
+ADAS,Capitol Technology University,Laurel,,USA
+ADAS,Swinburne University of Technology,Melbourne,,Australia
+ADAS,ETH Zürich,Zürich,,Switzerland
+ADAS,Southwest Technology Physics Institute,Chengdu,,China
+ADAS,Sichuan University,Chengdu,,China
+ADAS,Fraunhofer Institute for Experimental Software Engineering,Kaiserslautern,,Germany
+ADAS,Virginia Tech,Blacksburg,,USA
+ADAS,Indian Institute of Science,Bangalore,,India
+ADAS,Royal Military College of Canada,Kingston,,Canada
+ADAS,Moskovskiy Avtomobil'no-Dorozhnyy Gosudarstvennyy Tekhnicheskiy Universitet,Moscow,,Russia
+ADAS,Karlsruhe Institute of Technology,Karlsruhe,,Germany
+ADAS,Altınbaş Üniversitesi,İstanbul,,Turkey
+ADAS,Chalmers University of Technology,Gothenburg,,Sweden
+ADAS,Jiangsu University of Science and Technology,Jiangsu,,China
+ADAS,Hohai University,Nanjing,,China
+ADAS,Tongji Zhejiang College,Zhejiang,,China
+ADAS,Sejong Cyber ​​University,Seoul,,Korea
+ADAS,Kazan Federal University,Kazan,,Russia
+ADAS,National Changhua University of Education,Changhua,,Taiwan
+ADAS,University of Warwick,Coventry,,U.K.
+ADAS,Charles III University of Madrid,Madrid,,Spain
+ADAS,Iran University of Science and Technology,Tehran,,Iran
+ADAS,Karlsruhe Institute of Technology,Karlsruhe,,Germany
+ADAS,University of Warwick,Coventry,,U.K.
+ADAS,Seconda Università degli Studi di Napoli,Caserta,,Italy
+ADAS,Università Politecnica delle Marche,Ancona,,Italy
+ADAS,University of West Attica,Egaleo,,Greece
+ADAS,University of North Dakota,Grand Forks,,USA
+ADAS,Sejong Cyber University,Seoul,,Korea
+ADAS,Kazan Federal University,Kazan,,Russia
+ADAS,"Toyota Motor North America, Inc.",Plano,,USA
+ADAS,Meghnad Saha Institute Of Technology,Kolkata,,India
+ADAS,Denso Ten Ltd.,Kobe,,Japan
+ADAS,Fachhochschule St. Pölten,Sankt Pölten,,Austria
+ADAS,University of Duisburg-Essen,Duisburg,,Germany
+ADAS,Tongji University,Shanghai,,China
+ADAS,Syracuse University,Syracuse,,USA
+ADAS,University Mohamed Khider Biskra,Biskra,,Algeria
+ADAS,Federal University of Pernambuco ,Recife,,Brazil
+ADAS,FEV North America Inc.,Auburn Hills,,USA
+ADAS,Chalmers University of Technology,Gothenburg,,Sweden
+ADAS,Kelas Karyawan Universitas Mercu Buana Yogyakarta,Yogyakarta,,Indonesia
+ADAS,FEV North America Inc.,Auburn Hills,,USA
+ADAS,Czech Technical University,Prague,,Czechia
+ADAS,KTH School of Electrical Engineering and Computer Science,Stockholm,,Sweden
+ADAS,Charles III University of Madrid,Madrid,,Spain
+ADAS,University of Zagreb,Zagreb,,Croatia
+ADAS,University of Zagreb,Zagreb,,Croatia
+ADAS,Universidad Politécnica de Madrid,Madrid,,Spain
+ADAS,FH JOANNEUM Graz,Graz,,Austria
+ADAS,Sebelas Maret University,Surakarta,,Indonesia
+ADAS,Colombian School of Engineering Julio Garavito,Bogotá,,Colombia
