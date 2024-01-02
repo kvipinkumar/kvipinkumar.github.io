@@ -8,8 +8,8 @@ main:
     url: /publications/
     # url: "https://sites.google.com/view/vipinkumarkukkala/publications?authuser=0"
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
