@@ -37,16 +37,15 @@ My Research Book
 Introducing the latest edition of my book - "*Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems*". Order your copy today at:
 {: style="text-align: justify"}
 
-![Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems Book Cover](/images/book-cover.jpg){: .align-left width="266.4px" style="max-height: 100%;"}
-
-[Springer](https://link.springer.com/book/10.1007/978-3-031-28016-0)
-
-[Barnes & Noble](https://www.barnesandnoble.com/w/machine-learning-and-optimization-techniques-for-automotive-cyber-physical-systems-vipin-kumar-kukkala/1143037594?ean=9783031280153)
-
-[Amazon](https://www.amazon.com/Learning-Optimization-Techniques-Automotive-Cyber-Physical/dp/3031280156)
-
-[Walmart](https://www.walmart.com/ip/Machine-Learning-and-Optimization-Techniques-for-Automotive-Cyber-Physical-Systems-Hardcover-9783031280153/2021792043?wmlspartner=wlpa&selectedSellerId=0)
-
-[Thrift Books](https://www.walmart.com/ip/Machine-Learning-and-Optimization-Techniques-for-Automotive-Cyber-Physical-Systems-Hardcover-9783031280153/2021792043?wmlspartner=wlpa&selectedSellerId=0)
-
-[Google Books](https://books.google.com/books/about/Machine_Learning_and_Optimization_Techni.html?id=PNOpzwEACAAJ&source=kp_book_description)
+<div style="display: flex; align-items: stretch; gap: 2em; margin-bottom: 1em;">
+  <img src="/images/book-cover.jpg" alt="Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems Book Cover" style="width: 266.4px; object-fit: cover; object-position: center top; flex-shrink: 0; border-radius: 4px;">
+  <ul style="margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; justify-content: space-evenly;">
+    <li><a href="https://link.springer.com/book/10.1007/978-3-031-28016-0" target="_blank" rel="noopener noreferrer">Springer</a></li>
+    <li><a href="https://www.barnesandnoble.com/w/machine-learning-and-optimization-techniques-for-automotive-cyber-physical-systems-vipin-kumar-kukkala/1143037594?ean=9783031280153" target="_blank" rel="noopener noreferrer">Barnes &amp; Noble</a></li>
+    <li><a href="https://www.amazon.com/Learning-Optimization-Techniques-Automotive-Cyber-Physical/dp/3031280156" target="_blank" rel="noopener noreferrer">Amazon</a></li>
+    <li><a href="https://www.walmart.com/ip/Machine-Learning-and-Optimization-Techniques-for-Automotive-Cyber-Physical-Systems-Hardcover-9783031280153/2021792043?wmlspartner=wlpa&selectedSellerId=0" target="_blank" rel="noopener noreferrer">Walmart</a></li>
+    <li><a href="https://www.walmart.com/ip/Machine-Learning-and-Optimization-Techniques-for-Automotive-Cyber-Physical-Systems-Hardcover-9783031280153/2021792043?wmlspartner=wlpa&selectedSellerId=0" target="_blank" rel="noopener noreferrer">Thrift Books</a></li>
+    <li><a href="https://books.google.com/books/about/Machine_Learning_and_Optimization_Techni.html?id=PNOpzwEACAAJ&source=kp_book_description" target="_blank" rel="noopener noreferrer">Google Books</a></li>
+    <li><a href="https://books.apple.com/us/book/machine-learning-and-optimization-techniques-for/id6464074500" target="_blank" rel="noopener noreferrer">Apple Books</a></li>
+  </ul>
+</div>
