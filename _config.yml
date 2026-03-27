@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vipin Kumar Kukkala"
 title_separator          : "-"
 name                     : &name "Vipin Kumar Kukkala"
-description              : &description "personal description"
+description              : &description "Senior HPC Architect at NVIDIA. Ph.D. in Electrical Engineering (Colorado State University). Research in GPU architecture, HPC systems, deep learning, and automotive cyber-physical systems."
 url                      : https://kvipinkumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kvipinkumar/kvipinkumar.github.io"
@@ -30,22 +30,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -62,18 +46,25 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : profile-picture.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Vipin Kumar Kukkala
+  links:
+    - https://www.linkedin.com/in/vipin-kumar-kukkala
+    - https://scholar.google.com/citations?user=Ge7lrKQAAAAJ&hl=en&oi=ao
+    - https://www.researchgate.net/profile/Vipin-Kumar-Kukkala
+    - https://www.youtube.com/@vipinkumarkukkala3672
+    - https://www.semanticscholar.org/author/Vipin-Kumar-Kukkala/25184004
+    - https://orcid.org/0000-0002-3668-6978
+    - https://dblp.org/pid/206/1102.html
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -103,7 +94,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "vipin-kumar-kukkala"
-  # orcid            : "https://orcid.org/0000-0002-3668-6978"
+  orcid            : "https://orcid.org/0000-0002-3668-6978"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -184,9 +175,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -239,15 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

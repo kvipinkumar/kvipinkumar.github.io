@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Vipin Kumar Kukkala, Ph.D."
-excerpt: "About me"
+excerpt: "Senior HPC Architect at NVIDIA designing next-generation GPUs for Exascale Supercomputers. Ph.D. in Electrical Engineering from Colorado State University. Research in GPU architecture, HPC systems, deep learning, and automotive cyber-physical systems."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ Short Bio
 I received my Bachelor of Technology (B. Tech.) degree in Electronics and Communications Engineering from Jawaharlal Nehru Technological University, Hyderabad, India, in 2013, and Ph.D. in Electrical Engineering from Colorado State University in 2022, under the guidance of [Prof. Sudeep Pasricha](https://www.engr.colostate.edu/~sudeep). I have published in various peer-reviewed top-tier international conferences and journals and I have had the opportunity to present my research at a global stage. Additionally, I have authored a [research book](https://link.springer.com/book/10.1007/978-3-031-28016-0), contributed to several book chapters, and hold the distinction of being an inventor on a U.S. patent. Below is a map of all the locations worldwide that have cited my research as of December 2023.
 {: style="text-align: justify"}
 
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<iframe src="/talkmap/map.html" height="700" width="100%" style="border:none;"></iframe>
 
 My Journey
 ======
