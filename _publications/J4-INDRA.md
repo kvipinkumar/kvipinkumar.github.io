@@ -15,4 +15,4 @@ citation: 'V. K. Kukkala, S. V. Thiruloga, and S. Pasricha, &quot;INDRA: Intrusi
 Today's vehicles are complex distributed embedded systems that are increasingly being connected to various external systems. Unfortunately, this increased connectivity makes the vehicles vulnerable to security attacks that can be catastrophic. In this article, we present a novel intrusion detection system (IDS) called INDRA that utilizes a gated recurrent unit (GRU)-based recurrent autoencoder to detect anomalies in controller area network (CAN) bus-based automotive embedded systems. We evaluate our proposed framework under different attack scenarios and also compare it with the best known prior works in this area.
 {: style="text-align: justify"}
 
-[Download full paper here](https://dl.acm.org/doi/10.1145/3355392)
+[Download full paper here](https://ieeexplore.ieee.org/document/9211565){:target="_blank" rel="noopener noreferrer"}
