@@ -123,7 +123,20 @@
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "mainEntityOfPage" : {{ seo_url | jsonify }},
+      "sameAs" : {{ site.social.links | jsonify }}{% if site.social.job_title %},
+      "jobTitle" : {{ site.social.job_title | jsonify }}{% endif %}{% if site.social.works_for %},
+      "worksFor" : {
+        "@type" : "Organization",
+        "name" : {{ site.social.works_for | jsonify }}
+      }{% endif %}{% if site.social.alumni_of %},
+      "alumniOf" : {
+        "@type" : "CollegeOrUniversity",
+        "name" : {{ site.social.alumni_of | jsonify }}
+      }{% endif %}{% if site.description %},
+      "description" : {{ site.description | jsonify }}{% endif %}{% if site.og_image %},
+      "image" : {{ site.og_image | prepend: "/images/" | prepend: base_path | absolute_url | jsonify }}{% endif %}{% if site.social.knows_about %},
+      "knowsAbout" : {{ site.social.knows_about | jsonify }}{% endif %}
     }
   </script>
 {% endif %}
